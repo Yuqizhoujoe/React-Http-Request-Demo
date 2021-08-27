@@ -1,0 +1,7 @@
+/node_modules
+*.iml
+*.png
+*.xml
+*.ico
+robots.txt
+manifest.json
